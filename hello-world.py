@@ -14,3 +14,4 @@ elif yosh<=18:
     narx = 8000
 else: narx = 10000
 print(f"Sizga kirish {narx} so'm")
+#izoh qo'shdim
